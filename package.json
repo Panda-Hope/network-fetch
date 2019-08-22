@@ -1,0 +1,22 @@
+{
+  "name": "network-fetch",
+  "version": "1.0.0",
+  "description": "network-fetch is lightweight api state management solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panda-Hope/network-fetch.git"
+  },
+  "keywords": [
+    "typescript、axios"
+  ],
+  "author": "494873674@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Panda-Hope/network-fetch/issues"
+  },
+  "homepage": "https://github.com/Panda-Hope/network-fetch#readme"
+}
